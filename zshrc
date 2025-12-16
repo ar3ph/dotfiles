@@ -147,6 +147,7 @@ else
 fi
 alias z='zathura --fork'
 alias gaa='git add .'
+alias gp='git push'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../../'
